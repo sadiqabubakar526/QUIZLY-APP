@@ -1,0 +1,307 @@
+{
+	"easy":{
+		"0":{
+			"question": "Grand Central Terminal, Park Avenue, New York is the world's :",
+			"correct": "1",
+			"options": 
+			[
+				{
+				  "answer": "largest railway station"
+				},
+				{     
+				  "answer": "highest railway station"
+				},
+				{
+			   	  "answer": "longest railway station"
+				},
+				{      
+				  "answer": "None of the above"
+				}
+			]
+		},
+
+		"1":{
+			"question": "Entomology is the science that studies :",
+			"correct": "2",
+			"options": 
+			[
+				{
+				  "answer": "Behavior of human beings"
+				},
+				{     
+				  "answer": "Insects"
+				},
+				{
+			   	  "answer": "The origin and history of technical and scientific terms"
+				},
+				{      
+				  "answer": "The formation of rocks"
+				}
+			]
+		},
+
+		"2":{
+			"question": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of :",
+			"correct": "2",
+			"options": 
+			[
+				{
+				  "answer": "Asia"
+				},
+				{     
+				  "answer": "Africa"
+				},
+				{
+			   	  "answer": "Europe"
+				},
+				{      
+				  "answer": "Australia"
+				}
+			]
+		},
+
+		"3":{
+			"question": "Garampani sanctuary is located at :",
+			"correct": "2",
+			"options": 
+			[
+				{
+				  "answer": "Junagarh, Gujarat"
+				},
+				{     
+				  "answer": "Diphu, Assam"
+				},
+				{
+			   	  "answer": "Kohima, Nagaland"
+				},
+				{      
+				  "answer": "Gangtok, Sikkim"
+				}
+			]
+		},
+
+		"4":{
+			"question": "For which of the following disciplines is Nobel Prize awarded? :",
+			"correct": "4",
+			"options": 
+			[
+				{
+				  "answer": "Physics and Chemistry"
+				},
+				{     
+				  "answer": "Physiology or Medicine"
+				},
+				{
+			   	  "answer": "Literature, Peace and Economics"
+				},
+				{      
+				  "answer": "All of the above"
+				}
+			]
+		}
+	},
+
+	"intermediate":{
+		"0":{
+			"question": "Hitler party which came into power in 1933 is known as :",
+			"correct": "2",
+			"options": 
+			[
+				{
+				  "answer": "Labour Party"
+				},
+				{     
+				  "answer": "Nazi Party"
+				},
+				{
+			   	  "answer": "Ku-Klux-Klan"
+				},
+				{      
+				  "answer": "Democratic Party"
+				}
+			]
+		},
+
+		"1":{
+			"question": "FFC stands for :",
+			"correct": "3",
+			"options": 
+			[
+				{
+				  "answer": "Foreign Finance Corporation"
+				},
+				{     
+				  "answer": "Federation of Football Council"
+				},
+				{
+			   	  "answer": "Film Finance Corporation"
+				},
+				{      
+				  "answer": "None of the above"
+				}
+			]
+		},
+
+		"2":{
+			"question": "Fastest shorthand writer was :",
+			"correct": "1",
+			"options": 
+			[
+				{
+				  "answer": "Dr. G. D. Bist"
+				},
+				{     
+				  "answer": "J.R.D. Tata"
+				},
+				{
+			   	  "answer": "J.M. Tagore"
+				},
+				{      
+				  "answer": "Khudada Khan"
+				}
+			]
+		},
+
+		"3":{
+			"question": "Epsom (England) is the place associated with :",
+			"correct": "4",
+			"options": 
+			[
+				{
+				  "answer": "Shooting"
+				},
+				{     
+				  "answer": "Polo"
+				},
+				{
+			   	  "answer": "Snooker"
+				},
+				{      
+				  "answer": "Horse racing"
+				}
+			]
+		},
+
+		"4":{
+			"question": "First human heart transplant operation conducted by Dr. Christiaan Barnard on Louis Washkansky, was conducted in :",
+			"correct": "4",
+			"options": 
+			[
+				{
+				  "answer": "1922"
+				},
+				{     
+				  "answer": "1958"
+				},
+				{
+			   	  "answer": "1968"
+				},
+				{      
+				  "answer": "1967"
+				}
+			]
+		}
+	},
+
+	"difficult":{
+		"0":{
+			"question": "Habeas Corpus Act 1679 :",
+			"correct": "4",
+			"options": 
+			[
+				{
+				  "answer": "states that no one was to be imprisoned without a writ or warrant stating the charge against him"
+				},
+				{     
+				  "answer": "provided facilities to a prisoner to obtain either speedy trial or release in bail"
+				},
+				{
+			   	  "answer": "safeguarded the personal liberties of the people against arbitrary imprisonment by the king's orders"
+				},
+				{      
+				  "answer": "All of the above"
+				}
+			]
+		},
+
+		"1":{
+			"question": "Exposure to sunlight helps a person improve his health because :",
+			"correct": "4",
+			"options": 
+			[
+				{
+				  "answer": "the infrared light kills bacteria in the body"
+				},
+				{     
+				  "answer": "resistance power increases"
+				},
+				{
+			   	  "answer": "the pigment cells in the skin get stimulated and produce a healthy tan"
+				},
+				{      
+				  "answer": "the ultraviolet rays convert skin oil into Vitamin D"
+				}
+			]
+		},
+
+		"2":{
+			"question": "Guarantee to an exporter that the importer of his goods will pay immediately for the goods ordered by him, is known as :",
+			"correct": "1",
+			"options": 
+			[
+				{
+				  "answer": "Letter of Credit (L/C)"
+				},
+				{     
+				  "answer": "laissezfaire"
+				},
+				{
+			   	  "answer": "inflation"
+				},
+				{      
+				  "answer": "None of the above"
+				}
+			]
+		},
+
+		"3":{
+			"question": "First Afghan War took place in :",
+			"correct": "3",
+			"options": 
+			[
+				{
+				  "answer": "1833"
+				},
+				{     
+				  "answer": "1843"
+				},
+				{
+			   	  "answer": "1839"
+				},
+				{      
+				  "answer": "1848"
+				}
+			]
+		},
+
+		"4":{
+			"question": "Gulf cooperation council was originally formed by :",
+			"correct": "1",
+			"options": 
+			[
+				{
+				  "answer": "Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates"
+				},
+				{     
+				  "answer": "Second World Nations"
+				},
+				{
+			   	  "answer": "Third World Nations"
+				},
+				{      
+				  "answer": "Fourth World Nations"
+				}
+			]
+		}
+	}
+}
